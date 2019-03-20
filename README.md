@@ -1,2 +1,2 @@
 # android_hybrid_demo
-![](https://github.com/feiwen8772/wp-googlecodeprettify/blob/master/doc/WP-googlecodeprettify.jpg?raw=true)
+![](https://github.com/spring-fe/android_hybrid_demo/blob/master/images/android_hybrid.png?raw=true)
